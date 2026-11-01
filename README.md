@@ -1,4 +1,4 @@
-# 530amodel-com
+# 530A Model
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,69 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-530amodel-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://530amodel.com/
+530A Model is an independent, open‑source public‑good project offering a free calculator for the newly created 530A “Trump Accounts” tax‑advantaged investment accounts for children. It provides an educational, client‑side tool with no data collection, no login, and transparent methodology, linking to its public GitHub repository for the code and API.
+
+**Areas:** Finance · Education · OpenSource · Calculator · PublicGood
+
+## 530A Model on APIs.io
+
+Everything profiled for 530A Model is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/530amodel-com/](https://apis.io/providers/530amodel-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [530A Model public API API](https://apis.io/apis/530amodel-com/530a-model-public-api-api/) — Free, stateless projection API for 530A custodial accounts ("Trump Accounts"). Deterministic: identical requests return identical results (and cache at the…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (4)
+
+The data models the API reads and writes.
+
+- [Projection](https://apis.io/schemas/530amodel-com/530amodel-com-projection/)
+- [Returns](https://apis.io/schemas/530amodel-com/530amodel-com-returns/)
+- [Rules](https://apis.io/schemas/530amodel-com/530amodel-com-rules/)
+- [Scenario](https://apis.io/schemas/530amodel-com/530amodel-com-scenario/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [530Amodel Com Context](https://apis.io/jsonld/530amodel-com/530amodel-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [530A Model API Rules](https://apis.io/rules/530amodel-com/530amodel-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [530Amodel Com Domain Security](https://apis.io/security/530amodel-com/530amodel-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://530amodel.com/)
+- [Terms of service](https://530amodel.com/terms)
+- [Privacy policy](https://530amodel.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/530amodel-com/](https://apis.io/providers/530amodel-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for 530A Model: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/530amodel-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
