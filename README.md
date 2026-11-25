@@ -66,7 +66,7 @@
 
 530A Model is an independent, open‑source public‑good project offering a free calculator for the newly created 530A “Trump Accounts” tax‑advantaged investment accounts for children. It provides an educational, client‑side tool with no data collection, no login, and transparent methodology, linking to its public GitHub repository for the code and API.
 
-**Areas:** Finance · Education · OpenSource · Calculator · PublicGood
+**Areas:** Finance · Education · Open Source · Calculator · Public Good
 
 ## 530A Model on APIs.io
 
@@ -79,6 +79,12 @@ Everything profiled for 530A Model is published on APIs.io rather than in this r
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [530amodel-com-mcp.yml](https://apis.io/servers/530amodel-com/530amodel-com-mcp-yml/)
 
 #### JSON Schema (4)
 
@@ -95,17 +101,36 @@ Linked-data contexts for the provider's vocabulary.
 
 - [530Amodel Com Context](https://apis.io/jsonld/530amodel-com/530amodel-com-context/)
 
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [530A Model Openapi Overlay](https://apis.io/overlays/530amodel-com/530amodel-com-openapi-overlay/)
+
 #### Governance rules (1)
 
 Spectral rulesets for the provider's contracts.
 
 - [530A Model API Rules](https://apis.io/rules/530amodel-com/530amodel-com-rules/)
 
-#### Security (1)
+#### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [530Amodel Com Domain Security](https://apis.io/security/530amodel-com/530amodel-com-domain-security/)
+- [530A Model Authentication](https://apis.io/security/530amodel-com/530amodel-com-authentication/)
+- [530A Model Domain Security](https://apis.io/security/530amodel-com/530amodel-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [530A Model Scopes](https://apis.io/scopes/530amodel-com/530amodel-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [530A Model Plans Pricing](https://apis.io/plans/530amodel-com/530amodel-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -117,7 +142,50 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/530amodel-com/](https://apis.io/providers/530amodel-com/).
+**Kin Score 30.3** — thin · rubric 0.28.1 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 85.7 |
+| Contract quality | 54.4 |
+| Contract governance | 22.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 27.7 |
+
+**Agent readiness 25.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 22.5** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/530amodel-com/](https://apis.io/providers/530amodel-com/).
 
 ## How this profile is made
 
